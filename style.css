@@ -1,54 +1,58 @@
-
-.main{
+.main {
     width: 200px;
     height: 990px;
-    text-align:center;
+    text-align: center;
     padding-top: 50px;
-    background-color:rgb(9, 125, 157) ;
+    background-color: rgb(9, 125, 157);
     float: left;
-    
+
 
 }
-.mainhead{
+
+.mainhead {
     font-size: 20px;
     font-weight: bold;
 }
 
 .content {
-    margin-left: 200px; 
+    margin-left: 200px;
     text-align: left;
 
-    
+
 }
 
 .image1 {
     width: 900px;
     height: 400px;
 
-    
-   
+
+
 }
-h3{
+
+h3 {
     font-size: 200;
     color: rgb(7, 124, 139);
 
 }
-.content2{
+
+.content2 {
 
     padding: 20px;
-    margin:left;
+    margin: left;
     text-align: left;
 
 }
-.image2{
+
+.image2 {
     float: left;
-    height:250px;
-    width:290px;
+    height: 250px;
+    width: 290px;
     padding: 20px;
- 
+
 
 }
-.button{
+
+.button {
 
     background: #006597;
     color: white;
@@ -60,19 +64,26 @@ h3{
 }
 
 
-.gallery{
+.gallery {
     margin: left;
     text-align: left;
     padding: 20px;
-    
-    
+
+
 }
-.image3{
-    height:100px ;
+
+.image3 {
+    height: 100px;
     width: 100px;
     padding-left: 20px;
 
-}    
-.main3{
+}
+
+.main3 {
     padding-left: 20px;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
 }
